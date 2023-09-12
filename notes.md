@@ -7,3 +7,14 @@
 - categories of types:
   - primitive types: numer, string, boolean, void, symbol, null, undefined
   - object types: functions, arrays, classes, objects
+
+- type annotations and type inference:
+  - variables, functions, objects
+- annotation is specified by developers to describe type of a variable
+  - annotation is used when
+    - a function returns 'any' type value, example the JSON.parse() function
+    - declaration and initialisation are on different lines
+    - a variable is supposed to have a type that can't be inferred
+  - variables can have annotation to specify multiple types with `|`
+- inference is the same annotation but produced by the typescript compiler
+  - when declaration and initialization are on same line, typescript will infer the type if not annotated by dev

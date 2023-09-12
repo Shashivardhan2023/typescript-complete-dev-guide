@@ -18,3 +18,10 @@
   - variables can have annotation to specify multiple types with `|`
 - inference is the same annotation but produced by the typescript compiler
   - when declaration and initialization are on same line, typescript will infer the type if not annotated by dev
+
+- types in functions:
+- annotation to specify type of arguments and return values of functions
+- inference can only figure out return value type
+
+- types in objects:
+- look up about destructuring in JS

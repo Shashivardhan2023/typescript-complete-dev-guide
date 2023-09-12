@@ -1,5 +1,7 @@
 # JavaScript
 
+TODO: Add more detail.
+
 https://youtu.be/pN6jk0uUrD8?feature=shared
 
 - Execution Context and Call Stack.

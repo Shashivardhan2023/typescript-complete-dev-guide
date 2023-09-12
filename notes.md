@@ -1,0 +1,3 @@
+- typescript is a type system, just a syntax layer over javascript using type annotations to check for errors
+- typescript compiler outputs plain js code. this is what is executed on the web browser
+- 

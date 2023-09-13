@@ -36,3 +36,12 @@
 - interfaces:
 - new type with its own methods, properties, etc.
 - an object needs to have all properties of an interface but can have additional properties
+
+- classes:
+- blueprint to objects with fields and methods
+- inheritance supported
+- Instance Method Modifiers
+  - public: any method can call
+  - private: only methods of this class can call
+  - protected: only methods of this class and child classes can call
+- 

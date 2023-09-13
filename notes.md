@@ -44,4 +44,3 @@
   - public: any method can call
   - private: only methods of this class can call
   - protected: only methods of this class and child classes can call
-- 

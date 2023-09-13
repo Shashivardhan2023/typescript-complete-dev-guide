@@ -25,3 +25,10 @@
 
 - types in objects:
 - look up about destructuring in JS
+
+- types in arrays:
+- infers values extracted from arrays and checks array usages for errors
+- checks maps, reduce, forEach, etc. for errors
+- allows multiple types in same array
+
+- tuple is a list with specific order of values

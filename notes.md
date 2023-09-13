@@ -32,3 +32,7 @@
 - allows multiple types in same array
 
 - tuple is a list with specific order of values
+
+- interfaces:
+- new type with its own methods, properties, etc.
+- an object needs to have all properties of an interface but can have additional properties

@@ -24,3 +24,4 @@ https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX
 
 External to this YT playlist:
 - look up about destructuring
+- React and JS Memoization: https://www.freecodecamp.org/news/memoization-in-javascript-and-react/
